@@ -88,7 +88,9 @@ The system can be configured through user inputs and source code changes. Key co
 
 •	Visualization Styles: Update plot designs and layout in main_app.py or intradaytraining_lstm.py.
 
+## License
 
+MIT License
 
 
 
